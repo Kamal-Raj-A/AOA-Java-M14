@@ -57,8 +57,8 @@ Else, move in the direction of the larger value (up or left).
 ```
 /*
 Program to implement Reverse a String
-Developed by: 
-Register Number:  
+Developed by: KAMAL RAJ A
+Register Number:  212223040082
 */
 
 import java.util.Scanner;
